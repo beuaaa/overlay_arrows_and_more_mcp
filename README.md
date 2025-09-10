@@ -5,4 +5,4 @@ MCP server that converts natural-language instructions into ready-to-run Python 
 ## Install
 
 ```bash
-pip install git+https://github.com/YOUR_USER/overlay_arrows_and_more_mcp.git
+pip install overlay_arrows_and_more_mcp
